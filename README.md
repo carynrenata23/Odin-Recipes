@@ -1,4 +1,4 @@
-# Camillies-Recipes
+# Odin-Recipes
 in this project i learn about 
 1. the introduction of coding all about webpage,internet, dns and all about technology
 2. then we stated to get to nowt about git and git hub and what they do how it works 
